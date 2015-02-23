@@ -1,0 +1,2 @@
+# Panorama
+Image stitching
