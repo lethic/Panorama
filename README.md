@@ -1,2 +1,2 @@
 # Panorama
-Image stitching
+Automatic image stitching with OpenCV 2.4
